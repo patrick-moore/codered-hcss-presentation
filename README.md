@@ -1,3 +1,8 @@
+# IMPORTANT INFO
+
+In order to run this application and have the map work, you need to set a mapbox token in the .env file
+You can get a free mapbox token by signing up for an account with them
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
